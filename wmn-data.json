@@ -5841,16 +5841,6 @@
         "cat" : "social"
        },
        {
-        "name" : "uncove.io",
-        "uri_check" : "https://uncove.com/{account}",
-        "e_code" : 200,
-        "e_string" : "<div class=\"user-profil-container\">",
-        "m_code" : 200,
-        "m_string" : "SentimentVeryDissatisfiedIcon",
-        "known" : ["ornellamtl", "leamercier"],
-        "cat" : "finance"
-       },
-       {
         "name" : "Uwumarket",
         "uri_check" : "https://uwumarket.us/collections/{account}",
         "e_code" : 200,
