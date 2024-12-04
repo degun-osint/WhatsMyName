@@ -5896,7 +5896,7 @@
         "uri_check" : "https://vero.co/{account}",
         "e_code" : 200,
         "e_string" : "on VERO™</title>",
-        "m_string" : "The page you are looking for doesn't exist.",
+        "m_string" : "Sorry, this page is not available",
         "m_code" : 200,
         "known" : ["alex", "johnny"],
         "cat" : "art"
