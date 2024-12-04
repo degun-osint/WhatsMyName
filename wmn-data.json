@@ -6284,13 +6284,13 @@
        },
        {
         "name" : "Xanga",
-        "uri_check" : "http://{account}.xanga.com/",
+        "uri_check" : "https://help.xanga.com/profile/{account}",
         "strip_bad_char" : ".",
         "e_code" : 200,
-        "e_string" : "s Xanga Site | Just",
-        "m_string" : "Xanga 2.0 is Here!",
-        "m_code" : 302,
-        "known" : ["john"],
+        "e_string" : "<dl id='userinfo'>",
+        "m_string" : "User not found",
+        "m_code" : 404,
+        "known" : ["john", "brooklynheart", "eugenia"],
         "cat" : "blog"
        },
        {
@@ -6382,16 +6382,6 @@
         "m_code" : 302,
         "known" : ["monya14555d", "LordMohy"],
         "cat" : "dating"
-       },
-       {
-        "name" : "Yelp",
-        "uri_check" : "https://www.yelp.com/user_details?userid={account}",
-        "e_code" : 200,
-        "e_string" : "'s Reviews |",
-        "m_string" : "We’re sorry. Something went wrong on this page.",
-        "m_code" : 200,
-        "known" : ["j5CYhsvD2yrunyyoZvSvKA", "GHoG4X4FY8D8L563zzPX5w"],
-        "cat" : "shopping"
        },
        {
         "name" : "youpic",
