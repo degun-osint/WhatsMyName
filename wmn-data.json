@@ -627,6 +627,16 @@
         "cat" : "political"
        },
        {
+        "name": "Blogs.mediapart.fr",
+        "uri_check": "https://blogs.mediapart.fr/{account}",
+        "e_code": 200,
+        "m_code": 404,
+        "e_string": "class=\"redactor-identity\"",
+        "m_string": "error-page",
+        "cat": "blog",
+        "known": ["patrick-cahez", "test"]
+        },
+       {
         "name" : "Blogger",
         "uri_check" : "https://www.blogger.com/profile/{account}",
         "e_code" : 200,
