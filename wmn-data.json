@@ -4064,18 +4064,6 @@
       "cat": "social"
     },
     {
-      "name": "Testation.com",
-      "uri_check": "https://testation.com/{account}",
-      "e_code": 200,
-      "m_code": 200,
-      "e_string": "oui",
-      "m_string": "non",
-      "cat": "gaming",
-      "known": [
-        "test"
-      ]
-    },
-    {
       "name": "waytohey",
       "uri_check": "https://waytohey.com/{account}",
       "e_code": 200,
