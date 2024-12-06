@@ -442,19 +442,6 @@
       "cat": "gaming"
     },
     {
-      "name": "Appian",
-      "uri_check": "https://community.appian.com/members/{account}",
-      "e_code": 200,
-      "e_string": "User Profile",
-      "m_string": "Go back to our",
-      "m_code": 301,
-      "known": [
-        "mikec",
-        "varunkumarb0001"
-      ],
-      "cat": "tech"
-    },
-    {
       "name": "Archive Of Our Own Account",
       "uri_check": "https://archiveofourown.org/users/{account}",
       "e_code": 200,
@@ -8104,8 +8091,8 @@
       "uri_check": "https://www.wishlistr.com/profile/{account}/",
       "e_code": 200,
       "e_string": "s profile</title>",
-      "m_string": "<h2>Oops, Something Went Wrong",
-      "m_code": 301,
+      "m_string": "",
+      "m_code": 302,
       "known": [
         "test"
       ],
