@@ -8337,7 +8337,7 @@
       "uri_check": "https://www.youtube.com/c/{account}/about",
       "e_code": 200,
       "e_string": "joinedDateText",
-      "m_string": "<title>404 Not Found",
+      "m_string": "<title>404 Not Found</title>",
       "m_code": 404,
       "known": [
         "OvylarockTHR",
