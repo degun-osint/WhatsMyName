@@ -8350,7 +8350,7 @@
       "uri_check": "https://www.youtube.com/user/{account}/about",
       "e_code": 200,
       "e_string": "joinedDateText",
-      "m_string": "<title>404 Not Found",
+      "m_string": "src=\"/error?src=404",
       "m_code": 404,
       "known": [
         "MicahHoffman",
